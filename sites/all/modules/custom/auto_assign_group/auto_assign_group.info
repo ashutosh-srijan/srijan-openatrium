@@ -1,0 +1,6 @@
+name = Auto Assign Group
+description = "Assign user to particular group on registration."
+core = 7.x
+package = "Organic group"
+
+
